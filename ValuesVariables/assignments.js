@@ -1,13 +1,13 @@
-let country = 'India';
-let continent = 'Asia';
+const country = 'India';
+const continent = 'Asia';
 let population = '1M';
 
 console.log(country);
 console.log(continent);
 console.log(population);
 
-let isIsland = true;
-let language;
+const isIsland = true;
+let language = 'English';
 
 console.log(typeof isIsland);
 console.log(typeof population);
